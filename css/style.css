@@ -57,6 +57,12 @@ div img {
   
 }
 
+.contact {
+  border-bottom: solid 1px #d0d0d0;
+  text-align: justify;
+  
+}
+
 #music {
   max-width: 800px;
   margin: 0 auto;
