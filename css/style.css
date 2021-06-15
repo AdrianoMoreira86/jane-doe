@@ -31,11 +31,30 @@ ul.anchor-block li a {
   text-decoration: none;
 }
 
+#conteudo {
+  text-align: center;
+}
 #banner {
   background-image: url("../img/jane.jpg");
   background-size: cover;
   background-position: center;
   height: 80vh;
+}
+
+#banner-about {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 45vh;
+}
+
+div {
+  margin: 0 auto;
+}
+div img {
+  width: 300px;
+  height: 200px;
+  
 }
 
 #music {
